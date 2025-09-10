@@ -1,0 +1,17 @@
+university-no-dues-system/
+├── App.tsx
+├── constants.ts
+├── index.html
+├── index.tsx
+├── metadata.json
+├── types.ts
+└── components/
+    ├── ApplicationForm.tsx
+    ├── CertificateView.tsx
+    ├── Dashboard.tsx
+    ├── Header.tsx
+    ├── Login.tsx
+    ├── PaymentSection.tsx
+    ├── StatusTracker.tsx
+    └── icons/
+        └── StatusIcons.tsx
